@@ -1,0 +1,118 @@
+{
+	"basic.html": {
+		"resources": [
+			"themes/metro/easyui.css",
+			"jquery.easyui.mobile.js",
+			"jquery.min.js",
+			"themes/icon.css",
+			"images/login1.jpg",
+			"themes/metro/images/passwordbox_open.png",
+			"validate.js",
+			"themes/mobile.css",
+			"jquery.easyui.min.js",
+			"basic.html",
+			"loginInfo.json",
+			"themes/metro/images/passwordbox_close.png"
+		]
+	},
+	"login.html": {
+		"resources": [
+			"themes/metro/easyui.css",
+			"jquery.easyui.mobile.js",
+			"jquery.min.js",
+			"themes/icon.css",
+			"images/login1.jpg",
+			"themes/metro/images/passwordbox_open.png",
+			"validate.js",
+			"themes/mobile.css",
+			"jquery.easyui.min.js",
+			"loginInfo.json",
+			"login.html",
+			"json/loginInfo.json",
+			"js/jquery.easyui.min.js",
+			"js/jquery.min.js",
+			"js/jquery.easyui.mobile.js",
+			"js/validate.js"
+		],
+		"refer": [
+			"mode.html"
+		]
+	},
+	"mode.html": {
+		"resources": [
+			"css/common.css",
+			"themes/metro/easyui.css",
+			"jquery.easyui.mobile.js",
+			"jquery.min.js",
+			"themes/icon.css",
+			"themes/mobile.css",
+			"jquery.easyui.min.js",
+			"js/jquery.easyui.min.js",
+			"js/jquery.min.js",
+			"js/jquery.easyui.mobile.js",
+			"petitionCases.html"
+		],
+		"refer": [
+			"petitionCases.html",
+			"approvals.html",
+			"rechecks.html",
+			"assessment.html"
+		]
+	},
+	"petitionCases.html": {
+		"resources": [
+			"images/scanner.png",
+			"themes/metro/images/tabs_icons.png",
+			"themes/metro/easyui.css",
+			"jquery.easyui.mobile.js",
+			"css/common.css",
+			"jquery.min.js",
+			"themes/icon.css",
+			"themes/mobile.css",
+			"jquery.easyui.min.js",
+			"themes/metro/images/pagination_icons.png",
+			"js/jquery.easyui.min.js",
+			"js/jquery.min.js",
+			"js/jquery.easyui.mobile.js",
+			"themes/metro/images/loading.gif",
+			"json/petitionCases.json"
+		]
+	},
+	"approvals.html": {
+		"resources": [
+			"images/scanner.png",
+			"themes/metro/images/tabs_icons.png",
+			"themes/metro/images/pagination_icons.png",
+			"themes/metro/images/loading.gif",
+			"json/petitionCases.json",
+			"js/jquery.easyui.min.js",
+			"themes/metro/easyui.css",
+			"js/jquery.min.js",
+			"css/common.css",
+			"themes/icon.css",
+			"js/jquery.easyui.mobile.js",
+			"themes/mobile.css"
+		]
+	},
+	"rechecks.html": {
+		"resources": [
+			"themes/metro/images/pagination_icons.png",
+			"images/scanner.png",
+			"themes/metro/images/loading.gif",
+			"themes/metro/images/tabs_icons.png",
+			"json/petitionCases.json"
+		]
+	},
+	"assessment.html": {
+		"resources": [
+			"themes/icons/search.png",
+			"js/jquery.easyui.min.js",
+			"themes/metro/easyui.css",
+			"js/jquery.min.js",
+			"css/common.css",
+			"themes/icon.css",
+			"js/jquery.easyui.mobile.js",
+			"themes/mobile.css"
+		]
+	}
+}
